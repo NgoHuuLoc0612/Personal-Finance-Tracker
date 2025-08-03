@@ -34,10 +34,6 @@ A comprehensive Python application for tracking personal finances with data visu
 
 ### Setup
 1. Clone or download all the Python files to a directory
-2. Install required dependencies:
-```bash
-pip install -r requirements.txt
-```
 
 ### Required Files
 Make sure you have all these files in the same directory:
@@ -47,7 +43,6 @@ Make sure you have all these files in the same directory:
 - `budget_manager.py` - Budget tracking
 - `report_generator.py` - Report generation
 - `data_visualizer.py` - Chart creation
-- `requirements.txt` - Dependencies
 
 ## Usage
 
@@ -135,7 +130,6 @@ personal-finance-tracker/
 ├── budget_manager.py       # Budget tracking and alerts
 ├── report_generator.py     # Financial report generation
 ├── data_visualizer.py      # Chart and graph creation
-├── requirements.txt        # Python dependencies
 ├── README.md              # This documentation
 └── finance_tracker.db     # SQLite database (created automatically)
 ```
@@ -264,4 +258,5 @@ This project is open source and available under the MIT License.
 For issues or questions:
 1. Check the troubleshooting section
 2. Review error messages for guidance
+
 3. Ensure all dependencies are properly installed
